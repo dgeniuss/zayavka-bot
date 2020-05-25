@@ -1,7 +1,7 @@
 const { Bot, Keyboard } = require('node-vk-bot')
 
 const bot = new Bot({
-token: 'fed29e110d83eae94ca63c21f4cd76dc5973bcf1208bbbad3b7b794c21916a9451dc391f39a90e1f9c590',
+token: 'f3b868fd237828bcfad7c3bde78512ad59d118b4301d5fd82c1bd9d3979e97fa6142093a2051d8bdcccc8',
 group_id: 190615627
 }).start()
 console.log ('Бот успешно запущен')
