@@ -7,11 +7,13 @@
     "start": "node bot.js"
   },
   "engines": {
-  	"node": "12.16.2"
+    "node": "12.16.2"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-vk-bot": "^1.2.3"
+    "markup": "0.0.4",
+    "node-vk-bot": "^1.2.3",
+    "node-vk-bot-api": "^3.3.4"
   }
 }
